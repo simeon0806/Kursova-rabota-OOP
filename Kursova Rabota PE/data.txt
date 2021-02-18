@@ -1,0 +1,5 @@
+James Brown|24235633|Dale Avenue 1677|New York|USA|Dale Avenue 1677|4860  Bryan Street|3460  Goldcliff Circle|4836  Melm Street|3401  Java Lane
+Lisa Zack|59722923|Cantebury Drive 4463|Melbourne|Australia|738  Ripple Street|1807  Hardman Road|298  Ryder Avenue|3186  Freshour Circle|4543  Adonais Way
+Robert Davis|58092246|Blue Spruce 2471|Yokohama|Japan|Blue Spruce 2471|1032  Carriage Court|1189  Archwood Avenue|1583  Leroy Lane|3998  Polk Street
+Melissa Maccarone|82781721|Kuhl Avenue 1325|Paris|France|1545  Hilltop Drive|3446  Oxford Court|1235  Hope Street|2271  Patton Lane|1345  Wayside Lane
+Gladys Setliff|72781741|Kuhl Rvenue 1325|Paris|France|Kuhl Rvenue 1325|3446  Oxford Court
